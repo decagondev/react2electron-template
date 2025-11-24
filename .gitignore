@@ -109,3 +109,5 @@ app/
 *.njsproj
 *.sln
 *.sw?
+electron-dist/
+release/

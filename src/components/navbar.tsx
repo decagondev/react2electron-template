@@ -1,7 +1,6 @@
 import { Link, useLocation } from "react-router-dom"
 import { ThemeToggle } from "./theme-toggle"
 import { Button } from "@/components/ui/button"
-import { cn } from "@/lib/utils"
 
 /**
  * Navigation bar component with links to different pages and theme toggle
